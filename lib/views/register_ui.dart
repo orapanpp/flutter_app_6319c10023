@@ -37,7 +37,7 @@ class _RegisterUIState extends State<RegisterUI> {
                 height: 10.0,
               ),
               Text(
-                'Create new accound for Flutter Dev',
+                'Create new Accound for Flutter Dev',
                 style: TextStyle(
                     fontSize: 15,
                     fontWeight: FontWeight.bold,

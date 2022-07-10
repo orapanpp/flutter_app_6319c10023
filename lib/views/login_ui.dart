@@ -176,12 +176,12 @@ class _Login_UIState extends State<Login_UI> {
                             children: [
                               Icon(FontAwesomeIcons.google),
                               Text(
-                                "  Google",
+                                " Google",
                               ),
                             ],
                           ),
                           style: ElevatedButton.styleFrom(
-                            primary: Color.fromARGB(255, 255, 0, 0),
+                            primary: Color.fromARGB(255, 225, 6, 6),
                             shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(
                                 8,
