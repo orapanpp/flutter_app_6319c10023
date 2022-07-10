@@ -148,7 +148,7 @@ class _Login_UIState extends State<Login_UI> {
                             children: [
                               Icon(FontAwesomeIcons.facebook),
                               Text(
-                                "  Facebook",
+                                " Facebook",
                               ),
                             ],
                           ),
